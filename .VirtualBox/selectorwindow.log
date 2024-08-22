@@ -1,0 +1,20 @@
+00:00:01.789719 VirtualBox GUI VM Selector Window 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:01.789723 Log opened 2024-03-12T05:51:27.084662300Z
+00:00:01.789724 Build Type: release
+00:00:01.789733 OS Product: Windows 10
+00:00:01.789735 OS Release: 10.0.19045
+00:00:01.789736 OS Service Pack: 
+00:00:01.857352 DMI Product Name: Satellite E45t-A
+00:00:01.870658 DMI Product Version: PSUB2U-00K00PB
+00:00:01.870691 Firmware type: UEFI
+00:00:01.871307 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.871348 Host RAM: 6057MB (5.9GB) total, 1478MB available
+00:00:01.871355 Executable: G:\VirtualBox.exe
+00:00:01.871356 Process ID: 11496
+00:00:01.871357 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.871619 Qt version: 5.15.2
+00:00:01.872670 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.923121 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.923222 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:46:15.029207 GUI: UICommon: Handling aboutToQuit request..
+00:46:15.741565 GUI: UICommon: aboutToQuit request handled!
